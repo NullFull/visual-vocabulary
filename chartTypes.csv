@@ -24,7 +24,7 @@ bar-ordered,Ranking,bar-ordered.svg,TRUE,Standard bar charts display the ranks o
 column-ordered,Ranking,column-ordered.svg,TRUE,Standard column charts display the ranks of values much more easily when sorted into order
 symbol-proportional-ordered,Ranking,symbol-proportional-ordered.svg,FALSE,Use when there are big variations between values and/or seeing fine differences between data is not so important.
 dot-plot-strip,Ranking,dot-plot-strip.svg,FALSE,Dots placed in order on a strip are a space-efficient method of laying out ranks across multiple categories.
-slope,Ranking,slope-ranking.svg,TRUE,Perfect for showing how ranks have changed over time or vary between categories. 
+slope,Ranking,slope-ranking.svg,TRUE,Perfect for showing how ranks have changed over time or vary between categories.
 lollipop-h,Ranking,lollipop-h.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
 lollipop-v,Ranking,lollipop-v.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
 bump,Ranking,bump.svg,TRUE,

@@ -36,17 +36,17 @@ dot-plot-strip,Distribution,dot-plot-strip-distribution.svg,FALSE,"분포에서 
 dot-plot,Distribution,dot-plot.svg,TRUE,데이터를 여러 카테고리에 걸쳐 범위(최소/최대)를 보여주는 간단한 방법.
 barcode,Distribution,barcode.svg,FALSE,"dot strip plot과 같이, 모든 데이터를 표시하는데 좋습니다. 개별 값들을 강조하는데 가장 잘 작동합니다."
 cumulative-curve,Distribution,cumulative-curve.svg,FALSE,"분포가 얼마나 일정하지 않은지 보여주는데 좋은 방법입니다: y축은 항상 누적 빈도이고, x축은 항상 측도 입니다."
-column-stacked,Part to whole,column-stacked.svg,TRUE,A simple way of showing part-to-whole relationships but can be difficult to read with more than a few components.
-bar-stacked-proportional,Part to whole,bar-stacked-proportional.svg,TRUE,"A good way of showing the size and proportion of data at the same time, as long as the data are not too complicated. "
-pie,Part to whole,pie.svg,TRUE,A common way of showing part-to-whole data - but be aware that it's difficult to accurately compare the size of the segments.
-doughnut,Part to whole,doughnut.svg,TRUE,Similar to a pie chart - but the centre can be a good way of making space to include more information about the data (eg. total)
-treemap,Part to whole,treemap.svg,TRUE,Use for hierarchical part-to-whole relationships; can be difficult to read when there are many small segments
-Voronoi,Part to whole,voronoi.svg,FALSE,A way of turning points into areas - any point within the area is closer to the central point than any other point
-sunburst,Part to whole,sunburst.svg,FALSE,Another way of visualisaing hierarchical part-to-whole relationships. Use sparingly (if at all) for obvious reasons.
-arc,Part to whole,arc.svg,FALSE,"A hemicycle, often used for visualising political results."
-gridplot,Part to whole,gridplot.svg,FALSE,"Good for showing % information, they work best when used on whole numbers and work well in multiple layout form. "
-Venn,Part to whole,venn.svg,FALSE,Generally only used for schematic representation
-Waterfall,Part to whole,waterfall.svg,TRUE,Can be useful for showing part-to-whole relationships where some of the components are negative.
+column-stacked,Part to whole,column-stacked.svg,TRUE,"부분 대 전체 관계를 보여주는 간단한 방법이지만 구성 요소가 많으면 읽기 어려울 수 있습니다."
+bar-stacked-proportional,Part to whole,bar-stacked-proportional.svg,TRUE,"너무 복잡하지 않은 데이터의 크기와 비율을 동시에 표시하는 좋은 방법입니다."
+pie,Part to whole,pie.svg,TRUE,"부분 대 전체 데이터를 표시하는 일반적인 방법이지만 부분의 크기를 정확하게 비교하는 것은 어렵다는 것을 알고 사용해야합니다."
+doughnut,Part to whole,doughnut.svg,TRUE,"pie 차트와 비슷하지만 중심을 데이터(예 : 총계)에 대한 정보를 포함 할 수있는 공간으로 활용하는 데 좋은 방법 일 수 있습니다."
+treemap,Part to whole,treemap.svg,TRUE,"전체 관계들을 계층적으로 시각화하는 방법, 많은 작은 부분이 있을 때 읽기가 어려울 수 있습니다."
+Voronoi,Part to whole,voronoi.svg,FALSE,"지점들을 지역으로 변환하는 방법 - 그 지역 내 어느 지점이라도 다른 어떤 지점보다 중심점에 가깝다"
+sunburst,Part to whole,sunburst.svg,FALSE,"전체 관계들을 계층적으로 시각화하는 또 다른 방법. 확실한 이유가 있는 경우에 사용하십시오."
+arc,Part to whole,arc.svg,FALSE,"반원형, 정치적 결과를 시각화하기 위해 종종 사용합니다."
+gridplot,Part to whole,gridplot.svg,FALSE,"% 정보를 표시하는 데 적합하며 정수를 사용하고 여러 레이아웃 형식으로 작업할 때 좋은 방법입니다."
+Venn,Part to whole,venn.svg,FALSE,"일반적으로 회로도를 표현하는 경우 사용됩니다."
+Waterfall,Part to whole,waterfall.svg,TRUE,"일부 구성 요소가 부정적 인 경우 - 전체 관계를 표시하는 데 유용 할 수 있습니다."
 Column,Magnitude,column-magnitude.svg,TRUE,The standard way to compare the size of things. Must always start at 0 on the axis
 Bar,Magnitude,bar-magnitude.svg,TRUE,The standard way to compare the size of things. Must always start at 0 on the axis. Good when the data are not time series and labels have long category names
 column-grouped,Magnitude,column-grouped.svg,TRUE,As per standard column but allows for multiple series. Can become tricky to read with more than 2 series

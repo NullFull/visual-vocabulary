@@ -27,4 +27,3 @@ let catData={"categories":[
 "description":"Show the reader volumes or intensity of movement between two or more states or conditions. These might be logical sequences or geographical locations",
 "example":"Movement of funds, trade, migrants, lawsuits, information; relationship graphs"}]
 }
-

@@ -28,14 +28,14 @@ slope,Ranking,slope-ranking.svg,TRUE,Perfect for showing how ranks have changed 
 lollipop-h,Ranking,lollipop-h.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
 lollipop-v,Ranking,lollipop-v.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
 bump,Ranking,bump.svg,TRUE,
-histogram,Distribution,histogram.svg,TRUE,The standard way to show a statistical distribution - keep the gaps between columns small to highlight the 'shape' of the data.
-boxplot,Distribution,boxplot.svg,TRUE,Summarise multiple distributions by showing the median (centre) and range of the data
-violin,Distribution,violin.svg,FALSE,Similar to a box plot but more effective with complex distributions (data that cannot be summarised with simple average).
-population-pyramis,Distribution,population-pyramis.svg,TRUE,"A standard way for showing the age and sex breakdown of a population distribution; effectively, back to back histograms"
-dot-plot-strip,Distribution,dot-plot-strip-distribution.svg,FALSE,"Good for showing individual values in a distribution, can be a problem when too many dots have the same value"
-dot-plot,Distribution,dot-plot.svg,TRUE,A simple way of showing the range (min/max) of data across multiple categories.
-barcode,Distribution,barcode.svg,FALSE,"Like dot strip plots, good for displaying all the data in a table,they work best when highlighting individual values."
-cumulative-curve,Distribution,cumulative-curve.svg,FALSE,"A good way of showing how unequal a distribution is: y axis is always cumulative frequency, x axis is always a measure."
+histogram,Distribution,histogram.svg,TRUE,통계 분포를 보여주는 표준적인 방법 - 작은 열 간격을 유지하여 데이터의 '모양'을 강조합니다.
+boxplot,Distribution,boxplot.svg,TRUE,데이터의 중앙값과 범위를 표시하여 데이터를 요약합니다.
+violin,Distribution,violin.svg,FALSE,박스 플롯과 유사하지만 복잡한 분포(단순 평균으로 요약할 수 없는 데이터)에 더 효과적입니다.
+population-pyramis,Distribution,population-pyramis.svg,TRUE,"성별과 연령을 분해하여 효과적으로 보여주는 표준적인 방법. 등을 맞댄 히스토그램"
+dot-plot-strip,Distribution,dot-plot-strip-distribution.svg,FALSE,"분포에서 개별 값을 보여주는데 좋습니다. 같은 값의 점이 많은 경우 문제가 될 수 있습니다."
+dot-plot,Distribution,dot-plot.svg,TRUE,데이터를 여러 카테고리에 걸쳐 범위(최소/최대)를 보여주는 간단한 방법.
+barcode,Distribution,barcode.svg,FALSE,"dot strip plot과 같이, 모든 데이터를 표시하는데 좋습니다. 개별 값들을 강조하는데 가장 잘 작동합니다."
+cumulative-curve,Distribution,cumulative-curve.svg,FALSE,"분포가 얼마나 일정하지 않은지 보여주는데 좋은 방법입니다: y축은 항상 누적 빈도이고, x축은 항상 측도 입니다."
 column-stacked,Part to whole,column-stacked.svg,TRUE,A simple way of showing part-to-whole relationships but can be difficult to read with more than a few components.
 bar-stacked-proportional,Part to whole,bar-stacked-proportional.svg,TRUE,"A good way of showing the size and proportion of data at the same time, as long as the data are not too complicated. "
 pie,Part to whole,pie.svg,TRUE,A common way of showing part-to-whole data - but be aware that it's difficult to accurately compare the size of the segments.

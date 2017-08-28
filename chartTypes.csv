@@ -48,11 +48,12 @@ gridplot,Part to whole,gridplot.svg,FALSE,"% 정보를 표시하는 데 적합�
 Venn,Part to whole,venn.svg,FALSE,"일반적으로 회로도를 표현하는 경우 사용됩니다."
 Waterfall,Part to whole,waterfall.svg,TRUE,"일부 구성 요소가 부정적 인 경우 - 전체 관계를 표시하는 데 유용 할 수 있습니다."
 Column,Magnitude,column-magnitude.svg,TRUE,"사이즈(혹은 양)을 비교하는 표준적인 방법. 세로축은 반드시 0부터 시작한다."
-Bar,Magnitude,bar-magnitude.svg,TRUE,The standard way to compare the size of things. Must always start at 0 on the axis. Good when the data are not time series and labels have long category names
+Bar,Magnitude,bar-magnitude.svg,TRUE,사물의 크기를 비교하는 표준적인 방법. 항상 축은 0부터 시작. 데이터가 시계열이 아니고 레이블에 긴 범주 이름이 있는 경우 유용.
 column-grouped,Magnitude,column-grouped.svg,TRUE,As per standard column but allows for multiple series. Can become tricky to read with more than 2 series
 bar-grouped,Magnitude,bar-grouped-magnitude.svg,TRUE,As per standard bar but allows for multiple series. Can become tricky to read with more than 2 series
-bar-stacked-proportional,Magnitude,bar-stacked-proportional-magnitude.svg,TRUE,A good way of showing the size and proportion of data at the same time - as long as the data are not too complicated
-symbol-proportional,Magnitude,symbol-proportional.svg,FALSE,Use when there are big variations between values and/or seeing fne differences between data is not so important
+bar-stacked-proportional,Magnitude,bar-stacked-proportional-magnitude.svg,TRUE,데이터의 크기와 비율을 동시에 보여주는 좋은 방법 - 데이터가 너무 복잡하지 않을 때
+symbol-proportional,Magnitude,symbol-proportional.svg,FALSE,
+값 사이에 큰 차이가 있거나 데이터 간의 차이가 중요하지 않은 경우 사용
 isotope (pictogram),Magnitude,isotope.svg,FALSE,"일부 사례에서는 아주 좋은 해결책 - 정수표현에서 사용.(팔을 잘라 십진수로 나타내면 안됨)"
 lollipop-h,Magnitude,lollipop-h-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차트의 데이터는 막대 그래프 보다 주의를 끈다. 또한 순위를 나타내는데 효과적이다."
 lollipop-v,Magnitude,lollipop-v-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차트의 데이터는 막대 그래프 보다 주의를 끈다. 또한 순위를 나타내는데 효과적이다."

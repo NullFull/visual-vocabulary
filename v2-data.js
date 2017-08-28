@@ -13,7 +13,7 @@ let catData = {
       "example": "Inflation & unemployment, income & life expectancy"
     },
     {
-      "category": "시간에 의한 변화",
+      "category": "Change v Time",
       "colour": "#28903B",
       "description": "변화의 경향을 잘 보여준다. 짧은 구간(하루)이거나 수십년이나 세기에 걸쳐 잇달을 수도 있다: 독자에게 적확한 맥락을 전달하기 위해서 정확한 구간길이를 선택하는 것이 중요하다.",
       "example": "주가 변동, economic time series"

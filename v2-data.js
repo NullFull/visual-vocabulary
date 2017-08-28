@@ -39,7 +39,7 @@ let catData = {
     {
       "category": "Magnitude",
       "colour": "#A3488C",
-      "description": "Show size comparisons. These can be relative (just being able to see larger/bigger) or absolute (need to see fine differences). Usually these show a ‘counted’ number (for example, barrels, dollars or people) rather than a calculated rate or per cent",
+      "description": "규모와 크기 비교를 보여 준다. 상대적인 또는 절대적인 비교가 가능하다. 일반적으로 비율과 비율이 아닌 셀 수 있는 양 (배럴 또는 달러, 인원 등)에 사용한다.",
       "example": "Commodity production, market capitalisation"
     },
     {

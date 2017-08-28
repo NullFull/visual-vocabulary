@@ -27,8 +27,8 @@ let catData = {
     {
       "category": "Distribution",
       "colour": "#F26522",
-      "description": "Show values in a dataset and how often they occur. The shape (or ‘skew’) of a distribution can be a memorable way of highlighting the lack of uniformity or equality in the data",
-      "example": "Income distribution, population (age/sex) distribution"
+      "description": "데이터셋의 값과 얼마나 자주 나타나는지를 보여줍니다. 분포의 모양이나 비틀림은 동일성이나 일관성 부족을 강조하는 기억하기 쉬운 방법입니다.",
+      "example": "소득 분포, 인구 (나이/성별) 분포"
     },
     {
       "category": "Part to whole",

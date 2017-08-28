@@ -39,8 +39,8 @@ let catData = {
     {
       "category": "Magnitude",
       "colour": "#A3488C",
-      "description": "규모와 크기 비교를 보여 준다. 상대적인 또는 절대적인 비교가 가능하다. 일반적으로 비율과 비율이 아닌 셀 수 있는 양 (배럴 또는 달러, 인원 등)에 사용한다.",
-      "example": "Commodity production, market capitalisation"
+      "description": "규모와 크기 비교를 보여 준다. 상대적인 또는 절대적인 비교가 가능. 일반적으로 비율과 비율이 아닌 셀 수 있는 양 (배럴 또는 달러, 인원 등)에 사용한다.",
+      "example": "상품 생산, 시가 총액"
     },
     {
       "category": "Spatial",

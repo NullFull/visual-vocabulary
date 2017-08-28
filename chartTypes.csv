@@ -47,18 +47,18 @@ arc,Part to whole,arc.svg,FALSE,"반원형, 정치적 결과를 시각화하기 
 gridplot,Part to whole,gridplot.svg,FALSE,"% 정보를 표시하는 데 적합하며 정수를 사용하고 여러 레이아웃 형식으로 작업할 때 좋은 방법입니다."
 Venn,Part to whole,venn.svg,FALSE,"일반적으로 회로도를 표현하는 경우 사용됩니다."
 Waterfall,Part to whole,waterfall.svg,TRUE,"일부 구성 요소가 부정적 인 경우 - 전체 관계를 표시하는 데 유용 할 수 있습니다."
-Column,Magnitude,column-magnitude.svg,TRUE,The standard way to compare the size of things. Must always start at 0 on the axis
+Column,Magnitude,column-magnitude.svg,TRUE,"사이즈(혹은 양)을 비교하는 표준적인 방법. 세로축은 반드시 0부터 시작한다."
 Bar,Magnitude,bar-magnitude.svg,TRUE,The standard way to compare the size of things. Must always start at 0 on the axis. Good when the data are not time series and labels have long category names
 column-grouped,Magnitude,column-grouped.svg,TRUE,As per standard column but allows for multiple series. Can become tricky to read with more than 2 series
 bar-grouped,Magnitude,bar-grouped-magnitude.svg,TRUE,As per standard bar but allows for multiple series. Can become tricky to read with more than 2 series
 bar-stacked-proportional,Magnitude,bar-stacked-proportional-magnitude.svg,TRUE,A good way of showing the size and proportion of data at the same time - as long as the data are not too complicated
 symbol-proportional,Magnitude,symbol-proportional.svg,FALSE,Use when there are big variations between values and/or seeing fne differences between data is not so important
-isotope (pictogram),Magnitude,isotope.svg,FALSE,Excellent solution in some instances - use only with whole numbers (do not slice off an arm to represent a decimal).
-lollipop-h,Magnitude,lollipop-h-magnitude.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
-lollipop-v,Magnitude,lollipop-v-magnitude.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
-Radar,Magnitude,radar.svg,FALSE,A space-efficient way of showing value pf multiple variables -  but make sure they are organised in a way that makes sense to reader.
-Bullet,Magnitude,bullet.svg,TRUE,
-Parallel coordinates,Magnitude,parallel coordinates.svg,FALSE,"An alternative to radar charts - again, the arrngement of the variables is important. Usually benefits from highlighting values"
+isotope (pictogram),Magnitude,isotope.svg,FALSE,"일부 사례에서는 아주 좋은 해결책 - 정수표현에서 사용.(팔을 잘라 십진수로 나타내면 안됨)"
+lollipop-h,Magnitude,lollipop-h-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차트의 데이터는 막대 그래프 보다 주의를 끈다. 또한 순위를 나타내는데 효과적이다."
+lollipop-v,Magnitude,lollipop-v-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차트의 데이터는 막대 그래프 보다 주의를 끈다. 또한 순위를 나타내는데 효과적이다."
+Radar,Magnitude,radar.svg,FALSE,"여러 항목을 비교한다. 공백 효율에도 좋다. 다만, 독자에게 의미있는 구성인지 확인 할 것.(차이를 알기 어려우면 의미가 없다)"
+Bullet,Magnitude,bullet.svg,TRUE,"목표치에 대한 달성도를 나타내는 데 적합하다."
+Parallel coordinates,Magnitude,parallel coordinates.svg,FALSE,"Radar chart 차트 항목을 x축으로 대체한 변형버전. Radar chart와 마찬가지로 변수의 나열이 중요하다."
 basic-choropleth,Spatial,basic-choropleth.svg,FALSE,The standard approach for putting data on a map - should always be rates rather than totals and use a sensible base geography.
 proportional-symbol,Spatial,proportional-symbol.svg,FALSE,Use for totals rather than rates  - be wary that small differences in data will be hard to see.
 flow,Spatial,flow.svg,FALSE,For showing unambiguous movement across a map

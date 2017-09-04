@@ -21,8 +21,8 @@ let catData = {
     {
       "category": "Ranking",
       "colour": "#008EB0",
-      "description": "Use where an item’s position in an ordered list is more important than its absolute or relative value. Don’t be afraid to highlight the points of interest.",
-      "example": "Wealth, deprivation, league tables, constituency election results"
+      "description": "아이템의 절대값이나 상대값보다 정렬된 목록에서의 위치(순위)가 중요할 때 사용. 드러내고자 하는 바를 과감하게 강조할 것.",
+      "example": "예.  재산, 빈곤, 성적, 선거결과 등."
     },
     {
       "category": "Distribution",

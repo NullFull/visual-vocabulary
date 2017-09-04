@@ -33,8 +33,8 @@ let catData = {
     {
       "category": "Part to whole",
       "colour": "#0054A6",
-      "description": "Show how a single entity can be broken down into its component elements. If the reader’s interest is solely in the size of the components, consider a magnitude-type chart instead",
-      "example": "Fiscal budgets, company structures, national election results"
+      "description": "전체를 구성 요소로 분해하는 방법을 보여줍니다. 독자가 구성 요소의 크기에 관심이 있는 경우에는 크기-유형 차트를 고려하십시오.",
+      "example": "재정 예산, 회사 구조, 전국 선거 결과"
     },
     {
       "category": "Magnitude",

@@ -67,7 +67,7 @@ contour,Spatial,contour.svg,FALSE,"지도에서 같은 값의 면적을 표시�
 equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,"지도의 각 단위를 균일한 크기의 모양으로 변환하여 표시한다 - 선거구를 균등한 할당으로 표시하기 유용하다."
 scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,"각 구역의 면적을 해당 값에 따라서 확대 축소해서 표시한다."
 dot-density,Spatial,dot-density.svg,FALSE,개별 이벤트/위치를 보여주는데 흔히 사용 - 독자가 봐야하는 모든 패턴에 주석을 달아야 함.
-heat-map,Spatial,heat-map.svg,FALSE,Grid-based data values mapped with an intensity colour scale. As choropleth map - but not snapped to an admin/political unit.
+heat-map,Spatial,heat-map.svg,FALSE,그리드 기반 데이터 값을 색의 진하기로 매핑합니다. choropleth 맵과 비슷하지만 행정/정책 구역 단위로 딱 떨어지지 않습니다.
 sankey,Flow,sankey.svg,TRUE,한 상태에서 최소한 또 다른 상태로 변화함하는 흐름을 보여줌. 복잡한 과정의 최종 결과를 추적하는데 좋음.
 waterfall,Flow,waterfall-flow.svg,TRUE,"진행 과정을 나열하여 예산과 같은 데이터를 보여주기 위해 디자인됨. 더하거나 빼는 항목 포함 가능."
 chord,Flow,chord.svg,FALSE,행렬에서 양방향 흐름과 net winner를 보여줄 수 있는 복잡하지만 강력한 다이어그램

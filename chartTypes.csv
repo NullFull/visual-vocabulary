@@ -1,5 +1,5 @@
 chartName,category,img,avail,description
-bar-diverging,Deviation,bar-diverging.svg,TRUE,A simple standard bar chart that can handle both negative and positive magnitude values
+bar-diverging,Deviation,bar-diverging.svg,TRUE,음과 양의 범위 값 모두 처리할 수 있는 단순 표준 막대 차트
 bar-diverging-stacked,Deviation,bar-diverging-stacked.svg,TRUE,"Perfect for presenting survey results which involve sentiment (eg disagree, neutral, agreed"
 spine-chart,Deviation,spine.svg,TRUE,Splits a single value into 2 contrasting components (eg Male/Female)
 line-surplus-deficit-filled,Deviation,line-surplur-defecit-fill.svg,FALSE,"그래프의 음영 부분은 기준선 또는 두 연속값에 대한 균형을 나타낸다."
@@ -20,13 +20,13 @@ calendar-heatmap,Change v Time,calendar-heatmap.svg,TRUE,"정확한 양을 보�
 priestley timeline,Change v Time,priestley-timeline.svg,TRUE,"날짜와 지속기간이 데이터 스토리의 핵심 요소일 경우 유용하다."
 circles-timeline,Change v Time,circle-timeline.svg,TRUE,"여러 범주에 걸친 다양한 크기의 불연속 값을 보여주는 좋은 방법이다.(예: 각 대륙의 지진들)"
 seismogram,Change v Time,seismogram.svg,FALSE,"데이터의 변화가 큰 경우 원 집합 타임라인을 대체할 수 있는 방법이다."
-bar-ordered,Ranking,bar-ordered.svg,TRUE,Standard bar charts display the ranks of values much more easily when sorted into order
-column-ordered,Ranking,column-ordered.svg,TRUE,Standard column charts display the ranks of values much more easily when sorted into order
-symbol-proportional-ordered,Ranking,symbol-proportional-ordered.svg,FALSE,Use when there are big variations between values and/or seeing fine differences between data is not so important.
-dot-plot-strip,Ranking,dot-plot-strip.svg,FALSE,Dots placed in order on a strip are a space-efficient method of laying out ranks across multiple categories.
-slope,Ranking,slope-ranking.svg,TRUE,Perfect for showing how ranks have changed over time or vary between categories.
-lollipop-h,Ranking,lollipop-h.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
-lollipop-v,Ranking,lollipop-v.svg,TRUE,Lollipop charts draw more attention to the data value than standard bar/column and can also show rank effectively
+bar-ordered,Ranking,bar-ordered.svg,TRUE,표준 바 차트는 순서대로 정렬 되어있을때 값의 순위를 훨씬 쉽게 보여줄 수 있다
+column-ordered,Ranking,column-ordered.svg,TRUE,표준 컬럼 차트는 순서대로 정렬 되어있을때 값의 순위를 훨씬 쉽게 보여줄 수 있다
+symbol-proportional-ordered,Ranking,symbol-proportional-ordered.svg,FALSE,값 사이에 큰 변화가 있거나 세부적인 차이를 보는것이 중요하지 않을때 사용.
+dot-plot-strip,Ranking,dot-plot-strip.svg,FALSE,선 위에 점들을 나열하여 여러 카테고리에 걸친 순위를 보여주는 공간 효율적인 방법.
+slope,Ranking,slope-ranking.svg,TRUE,시간이 지남에 따라 혹은 다양한 분류에 따라 순위가 어떻게 변하는지 보여주기에 완벽.
+lollipop-h,Ranking,lollipop-h.svg,TRUE,롤리팝 차트는 표준 바/컬럼 차트 보다 데이터 값에 더 주목하며 순위를 효과적으로 보여주기도 합니다.
+lollipop-v,Ranking,lollipop-v.svg,TRUE,롤리팝 차트는 표준 바/컬럼 차트 보다 데이터 값에 더 주목하며 순위를 효과적으로 보여주기도 합니다.
 bump,Ranking,bump.svg,TRUE,
 histogram,Distribution,histogram.svg,TRUE,통계 분포를 보여주는 표준적인 방법 - 작은 열 간격을 유지하여 데이터의 '모양'을 강조합니다.
 boxplot,Distribution,boxplot.svg,TRUE,데이터의 중앙값과 범위를 표시하여 데이터를 요약합니다.
@@ -66,7 +66,7 @@ flow,Spatial,flow.svg,FALSE,"지도상의 움직임을 명확하게 보여줄 �
 contour,Spatial,contour.svg,FALSE,"지도에서 같은 값의 면적을 표시하기 위해 사용한다. +/- 값을 나타내기 위해 색채 배합을 사용할 수 있다."
 equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,"지도의 각 단위를 균일한 크기의 모양으로 변환하여 표시한다 - 선거구를 균등한 할당으로 표시하기 유용하다."
 scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,"각 구역의 면적을 해당 값에 따라서 확대 축소해서 표시한다."
-dot-density,Spatial,dot-density.svg,FALSE,Used to show the location of individual events/locations - make sure to annotate any patterns the reader should see.
+dot-density,Spatial,dot-density.svg,FALSE,개별 이벤트/위치를 보여주는데 흔히 사용 - 독자가 봐야하는 모든 패턴에 주석을 달아야 함.
 heat-map,Spatial,heat-map.svg,FALSE,Grid-based data values mapped with an intensity colour scale. As choropleth map - but not snapped to an admin/political unit.
 sankey,Flow,sankey.svg,TRUE,한 상태에서 최소한 또 다른 상태로 변화함하는 흐름을 보여줌. 복잡한 과정의 최종 결과를 추적하는데 좋음.
 waterfall,Flow,waterfall-flow.svg,TRUE,"진행 과정을 나열하여 예산과 같은 데이터를 보여주기 위해 디자인됨. 더하거나 빼는 항목 포함 가능."

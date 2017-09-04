@@ -33,8 +33,8 @@ let catData = {
     {
       "category": "Part to whole",
       "colour": "#0054A6",
-      "description": "Show how a single entity can be broken down into its component elements. If the reader’s interest is solely in the size of the components, consider a magnitude-type chart instead",
-      "example": "Fiscal budgets, company structures, national election results"
+      "description": "전체를 구성 요소로 분해하는 방법을 보여줍니다. 독자가 구성 요소의 크기에 관심이 있는 경우에는 크기-유형 차트를 고려하십시오.",
+      "example": "재정 예산, 회사 구조, 전국 선거 결과"
     },
     {
       "category": "Magnitude",
@@ -45,14 +45,14 @@ let catData = {
     {
       "category": "Spatial",
       "colour": "#9C9D94",
-      "description": "Used only when precise locations or geographical patterns in data are more important to the reader than anything else. ",
-      "example": "Locator maps, population density, natural resource locations, natural disaster risk/impact, catchment areas, variation in election results"
+      "description": "데이터의 정확한 위치나 지리적 패턴이 다른 어떤 것보다 독자에게 중요 할 때 사용합니다.",
+      "example": "지도 경계, 인구 밀도, 천연 자원 위치, 자연 재해 위험/영향, 저수지 지역, 선거 결과의 다양성"
     },
     {
       "category": "Flow",
       "colour": "#ABBD67",
-      "description": "Show the reader volumes or intensity of movement between two or more states or conditions. These might be logical sequences or geographical locations",
-      "example": "Movement of funds, trade, migrants, lawsuits, information; relationship graphs"
+      "description": "둘 이상의 상태 사이의 변화 양이나 격렬함을 보여줍니다. 논리적 순서나 지리적 위치 일 수 있습니다.",
+      "example": "자금의 흐름, 무역, 이주, 소송, 정보; 관계 연결"
     }
   ]
 }

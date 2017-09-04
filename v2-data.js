@@ -45,8 +45,8 @@ let catData = {
     {
       "category": "Spatial",
       "colour": "#9C9D94",
-      "description": "Used only when precise locations or geographical patterns in data are more important to the reader than anything else. ",
-      "example": "Locator maps, population density, natural resource locations, natural disaster risk/impact, catchment areas, variation in election results"
+      "description": "데이터의 정확한 위치나 지리적 패턴이 다른 어떤 것보다 독자에게 중요 할 때 사용합니다.",
+      "example": "지도 경계, 인구 밀도, 천연 자원 위치, 자연 재해 위험/영향, 저수지 지역, 선거 결과의 다양성"
     },
     {
       "category": "Flow",

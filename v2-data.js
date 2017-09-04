@@ -51,8 +51,8 @@ let catData = {
     {
       "category": "Flow",
       "colour": "#ABBD67",
-      "description": "Show the reader volumes or intensity of movement between two or more states or conditions. These might be logical sequences or geographical locations",
-      "example": "Movement of funds, trade, migrants, lawsuits, information; relationship graphs"
+      "description": "두 개 이상의 주나 조건 사이에서 리더 양 또는 운동 강도를 보여줍니다. 논리적 순서 또는 지리적 위치 일 수 있습니다.",
+      "example": "자금의 흐름, 무역, 이주, 소송, 정보; 관계 연결"
     }
   ]
 }

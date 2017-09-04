@@ -67,7 +67,7 @@ equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,Converting each unit o
 scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,Stretching and shrinking a map so that each area is sized according to a particular value.
 dot-density,Spatial,dot-density.svg,FALSE,Used to show the location of individual events/locations - make sure to annotate any patterns the reader should see.
 heat-map,Spatial,heat-map.svg,FALSE,Grid-based data values mapped with an intensity colour scale. As choropleth map - but not snapped to an admin/political unit.
-sankey,Flow,sankey.svg,TRUE,Shows changes in flows from one condition to at least one other; good for tracing the eventual outcome of a complex process.
-waterfall,Flow,waterfall-flow.svg,TRUE,"Designed to show the sequencing of data through a flow process, typically budgets. Can include +/- components"
-chord,Flow,chord.svg,FALSE,A complex but powerful diagram which can illustrate 2-way flows (and net winner) in a matrix
-네트워크,Flow,network.svg,FALSE,Used for showing the complexity and inter-connectdness of relationships of varying types.
+sankey,Flow,sankey.svg,TRUE,한 상태에서 최소한 또 다른 상태로 변화함하는 흐름을 보여줌. 복잡한 과정의 최종 결과를 추적하는데 좋음.
+waterfall,Flow,waterfall-flow.svg,TRUE,"진행 과정을 나열하여 예산과 같은 데이터를 보여주기 위해 디자인됨. 더하거나 빼는 항목 포함 가능."
+chord,Flow,chord.svg,FALSE,행렬에서 양방향 흐름과 net winner를 보여줄 수 있는 복잡하지만 강력한 다이어그램
+network,Flow,network.svg,FALSE,다양한 타입의 복잡성과 상호연관성을 보여주기 위해 사용.

@@ -1,7 +1,7 @@
 chartName,category,img,avail,description
 bar-diverging,Deviation,bar-diverging.svg,TRUE,음과 양의 범위 값 모두 처리할 수 있는 단순 표준 막대 차트
-bar-diverging-stacked,Deviation,bar-diverging-stacked.svg,TRUE,"Perfect for presenting survey results which involve sentiment (eg disagree, neutral, agreed"
-spine-chart,Deviation,spine.svg,TRUE,Splits a single value into 2 contrasting components (eg Male/Female)
+bar-diverging-stacked,Deviation,bar-diverging-stacked.svg,TRUE,"정서(및 태도)를 포함한 조사 결과를 표현 하는데 최적. 반대 / 둘 중 어디도 아니다 / 찬성 등"
+spine-chart,Deviation,spine.svg,TRUE,"스파인차트는 단일한 값을 상반되는/상대적인 두 요소로 나눌 때 사용한다.(예: 남/녀)"
 line-surplus-deficit-filled,Deviation,line-surplur-defecit-fill.svg,FALSE,"그래프의 음영 부분은 기준선 또는 두 연속값에 대한 균형을 나타낸다."
 scatterplot,Correlation,scatterplot.svg,TRUE,"The standard way to show the relationship between two variables, each of which has its own axis"
 line-column,Correlation,line-column.svg,TRUE,A good way of showing the relationship between an amount (columns) and a rate (line)

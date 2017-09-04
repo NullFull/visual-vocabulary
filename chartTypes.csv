@@ -2,7 +2,7 @@ chartName,category,img,avail,description
 bar-diverging,Deviation,bar-diverging.svg,TRUE,A simple standard bar chart that can handle both negative and positive magnitude values
 bar-diverging-stacked,Deviation,bar-diverging-stacked.svg,TRUE,"Perfect for presenting survey results which involve sentiment (eg disagree, neutral, agreed"
 spine-chart,Deviation,spine.svg,TRUE,Splits a single value into 2 contrasting components (eg Male/Female)
-line-surplus-deficit-filled,Deviation,line-surplur-defecit-fill.svg,FALSE,The shaded area of these charts allows a balance to be shown;  either against a baseline or between two serie
+line-surplus-deficit-filled,Deviation,line-surplur-defecit-fill.svg,FALSE,"그래프의 음영 부분은 기준선 또는 두 연속값에 대한 균형을 나타낸다."
 scatterplot,Correlation,scatterplot.svg,TRUE,"The standard way to show the relationship between two variables, each of which has its own axis"
 line-column,Correlation,line-column.svg,TRUE,A good way of showing the relationship between an amount (columns) and a rate (line)
 scatterplot-connected,Correlation,scatterplot-connected.svg,TRUE,Usually used to show how the relationship between 2 variables has changed over time
@@ -60,12 +60,12 @@ lollipop-v,Magnitude,lollipop-v-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차
 Radar,Magnitude,radar.svg,FALSE,"여러 항목을 비교한다. 공백 효율에도 좋다. 다만, 독자에게 의미있는 구성인지 확인 할 것.(차이를 알기 어려우면 의미가 없다)"
 Bullet,Magnitude,bullet.svg,TRUE,"목표치에 대한 달성도를 나타내는 데 적합하다."
 Parallel coordinates,Magnitude,parallel coordinates.svg,FALSE,"Radar chart 차트 항목을 x축으로 대체한 변형버전. Radar chart와 마찬가지로 변수의 나열이 중요하다."
-basic-choropleth,Spatial,basic-choropleth.svg,FALSE,The standard approach for putting data on a map - should always be rates rather than totals and use a sensible base geography.
-proportional-symbol,Spatial,proportional-symbol.svg,FALSE,Use for totals rather than rates  - be wary that small differences in data will be hard to see.
-flow,Spatial,flow.svg,FALSE,For showing unambiguous movement across a map
-contour,Spatial,contour.svg,FALSE,For showing areas of equal value on a map. Can use deviation colour schemes for showing +/- values
-equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,Converting each unit on a map to a regular and equally-sized shape - good for representing voting regions with equal share.
-scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,Stretching and shrinking a map so that each area is sized according to a particular value.
+basic-choropleth,Spatial,basic-choropleth.svg,FALSE,"지도에 데이터를 표시하는 기본적인 접근법으로 - 언제나 합계보다 비율이어야 하며 알아볼 수 있는 배경 지도를 사용해야한다."
+proportional-symbol,Spatial,proportional-symbol.svg,FALSE,"비율보다는 합계 표시에 사용하며 - 데이터의 작은 차이는 알아보기 어려움에 유의해야한다."
+flow,Spatial,flow.svg,FALSE,"지도상의 움직임을 명확하게 보여줄 때 사용한다."
+contour,Spatial,contour.svg,FALSE,"지도에서 같은 값의 면적을 표시하기 위해 사용한다. +/- 값을 나타내기 위해 색채 배합을 사용할 수 있다."
+equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,"지도의 각 단위를 균일한 크기의 모양으로 변환하여 표시한다 - 선거구를 균등한 할당으로 표시하기 유용하다."
+scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,"각 구역의 면적을 해당 값에 따라서 확대 축소해서 표시한다."
 dot-density,Spatial,dot-density.svg,FALSE,Used to show the location of individual events/locations - make sure to annotate any patterns the reader should see.
 heat-map,Spatial,heat-map.svg,FALSE,Grid-based data values mapped with an intensity colour scale. As choropleth map - but not snapped to an admin/political unit.
 sankey,Flow,sankey.svg,TRUE,한 상태에서 최소한 또 다른 상태로 변화함하는 흐름을 보여줌. 복잡한 과정의 최종 결과를 추적하는데 좋음.

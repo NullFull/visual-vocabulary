@@ -66,7 +66,7 @@ flow,Spatial,flow.svg,FALSE,For showing unambiguous movement across a map
 contour,Spatial,contour.svg,FALSE,For showing areas of equal value on a map. Can use deviation colour schemes for showing +/- values
 equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,Converting each unit on a map to a regular and equally-sized shape - good for representing voting regions with equal share.
 scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,Stretching and shrinking a map so that each area is sized according to a particular value.
-dot-density,Spatial,dot-density.svg,FALSE,Used to show the location of individual events/locations - make sure to annotate any patterns the reader should see.
+dot-density,Spatial,dot-density.svg,FALSE,개별 이벤트/위치를 보여주는데 흔히 사용 - 독자가 봐야하는 모든 패턴에 주석을 달아야 함.
 heat-map,Spatial,heat-map.svg,FALSE,Grid-based data values mapped with an intensity colour scale. As choropleth map - but not snapped to an admin/political unit.
 sankey,Flow,sankey.svg,TRUE,한 상태에서 최소한 또 다른 상태로 변화함하는 흐름을 보여줌. 복잡한 과정의 최종 결과를 추적하는데 좋음.
 waterfall,Flow,waterfall-flow.svg,TRUE,"진행 과정을 나열하여 예산과 같은 데이터를 보여주기 위해 디자인됨. 더하거나 빼는 항목 포함 가능."

@@ -13,7 +13,7 @@ let catData = {
       "example": "Inflation & unemployment, income & life expectancy"
     },
     {
-      "category": "시간에 의한 변화",
+      "category": "Change v Time",
       "colour": "#28903B",
       "description": "변화의 경향을 잘 보여준다. 짧은 구간(하루)이거나 수십년이나 세기에 걸쳐 잇달을 수도 있다: 독자에게 적확한 맥락을 전달하기 위해서 정확한 구간길이를 선택하는 것이 중요하다.",
       "example": "주가 변동, economic time series"
@@ -27,8 +27,8 @@ let catData = {
     {
       "category": "Distribution",
       "colour": "#F26522",
-      "description": "Show values in a dataset and how often they occur. The shape (or ‘skew’) of a distribution can be a memorable way of highlighting the lack of uniformity or equality in the data",
-      "example": "Income distribution, population (age/sex) distribution"
+      "description": "데이터셋의 값과 얼마나 자주 나타나는지를 보여줍니다. 분포의 모양이나 비틀림은 동일성이나 일관성 부족을 강조하는 기억하기 쉬운 방법입니다.",
+      "example": "소득 분포, 인구 (나이/성별) 분포"
     },
     {
       "category": "Part to whole",
@@ -39,8 +39,8 @@ let catData = {
     {
       "category": "Magnitude",
       "colour": "#A3488C",
-      "description": "Show size comparisons. These can be relative (just being able to see larger/bigger) or absolute (need to see fine differences). Usually these show a ‘counted’ number (for example, barrels, dollars or people) rather than a calculated rate or per cent",
-      "example": "Commodity production, market capitalisation"
+      "description": "규모와 크기 비교를 보여 준다. 상대적인 또는 절대적인 비교가 가능. 일반적으로 비율과 비율이 아닌 셀 수 있는 양 (배럴 또는 달러, 인원 등)에 사용한다.",
+      "example": "상품 생산, 시가 총액"
     },
     {
       "category": "Spatial",

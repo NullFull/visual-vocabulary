@@ -60,14 +60,14 @@ lollipop-v,Magnitude,lollipop-v-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차
 Radar,Magnitude,radar.svg,FALSE,"여러 항목을 비교한다. 공백 효율에도 좋다. 다만, 독자에게 의미있는 구성인지 확인 할 것.(차이를 알기 어려우면 의미가 없다)"
 Bullet,Magnitude,bullet.svg,TRUE,"목표치에 대한 달성도를 나타내는 데 적합하다."
 Parallel coordinates,Magnitude,parallel coordinates.svg,FALSE,"Radar chart 차트 항목을 x축으로 대체한 변형버전. Radar chart와 마찬가지로 변수의 나열이 중요하다."
-basic-choropleth,Spatial,basic-choropleth.svg,FALSE,"지도에 데이터를 표시하는 기본적인 접근법으로 - 언제나 합계보다 비율이어야 하며 알아볼 수 있는 배경 지도를 사용해야한다."
-proportional-symbol,Spatial,proportional-symbol.svg,FALSE,"비율보다는 합계 표시에 사용하며 - 데이터의 작은 차이는 알아보기 어려움에 유의해야한다."
-flow,Spatial,flow.svg,FALSE,"지도상의 움직임을 명확하게 보여줄 때 사용한다."
-contour,Spatial,contour.svg,FALSE,"지도에서 같은 값의 면적을 표시하기 위해 사용한다. +/- 값을 나타내기 위해 색채 배합을 사용할 수 있다."
-equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,"지도의 각 단위를 균일한 크기의 모양으로 변환하여 표시한다 - 선거구를 균등한 할당으로 표시하기 유용하다."
-scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,"각 구역의 면적을 해당 값에 따라서 확대 축소해서 표시한다."
-dot-density,Spatial,dot-density.svg,FALSE,개별 이벤트/위치를 보여주는데 흔히 사용 - 독자가 봐야하는 모든 패턴에 주석을 달아야 함.
-heat-map,Spatial,heat-map.svg,FALSE,그리드 기반 데이터 값을 색의 진하기로 매핑합니다. choropleth 맵과 비슷하지만 행정/정책 구역 단위로 딱 떨어지지 않습니다.
+basic-choropleth,Spatial,basic-choropleth.svg,FALSE,"지도에 데이터를 표시하는 표준적인 방법으로 - 실제 값 보다는 비율을, 그리고 적절한 지도를 사용해야한다."
+proportional-symbol,Spatial,proportional-symbol.svg,FALSE,"비율보다는 값 표시에 사용하며 - 데이터의 작은 차이는 알아보기 어려움에 유의해야한다."
+flow,Spatial,flow.svg,FALSE,"지도 위에 명확한 이동을 표시할 때 사용한다"
+contour,Spatial,contour.svg,FALSE,"지도 위 같은 값을 가진 영역을 표현할 때 사용한다. +/- 값을 나타내기 위해 서로 다른 색상을 사용할 수 있다."
+equalised-cartogram,Spatial,equalised-cartogram.svg,FALSE,"지도의 각 단위를 균일한 크기의 모양으로 변환하여 표시한다 - 선거구를 같은 비중으로 나타낼 때 유용하다."
+scaled-cartogram-value,Spatial,scaled-cartogram-value.svg,FALSE,"지도의 각 구역 면적을 해당 값에 비례하여 확대 축소해서 표시한다."
+dot-density,Spatial,dot-density.svg,FALSE,개별 사건의 발생 지점/위치를 보여주는데 흔히 사용 - 독자가 봐야하는 모든 패턴에는 주석을 달아야 한다.
+heat-map,Spatial,heat-map.svg,FALSE,격자 기반 데이터 값에 색상의 강도를 매핑한다. choropleth map과 비슷하지만 행정/정치적 단위 구역에 딱 맞지 않는다.
 sankey,Flow,sankey.svg,TRUE,한 상태에서 최소한 또 다른 상태로 변화함하는 흐름을 보여줌. 복잡한 과정의 최종 결과를 추적하는데 좋음.
 waterfall,Flow,waterfall-flow.svg,TRUE,"진행 과정을 나열하여 예산과 같은 데이터를 보여주기 위해 디자인됨. 더하거나 빼는 항목 포함 가능."
 chord,Flow,chord.svg,FALSE,행렬에서 양방향 흐름과 net winner를 보여줄 수 있는 복잡하지만 강력한 다이어그램

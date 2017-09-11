@@ -52,8 +52,7 @@ Bar,Magnitude,bar-magnitude.svg,TRUE,사물의 크기를 비교하는 표준적�
 column-grouped,Magnitude,column-grouped.svg,TRUE,"표준적인 막대 그래프. 동일 단위에서 여러 요소를 비교 할 수 있지만, 요소가 2개 이상이면 알기 어렵게 된다."
 bar-grouped,Magnitude,bar-grouped-magnitude.svg,TRUE,"위와 동일, 방향을 옆으로 한 패턴"
 bar-stacked-proportional,Magnitude,bar-stacked-proportional-magnitude.svg,TRUE,데이터의 크기와 비율을 동시에 보여주는 좋은 방법 - 데이터가 너무 복잡하지 않을 때
-symbol-proportional,Magnitude,symbol-proportional.svg,FALSE,
-"값 사이에 큰 차이가 있거나 데이터 간의 차이가 중요하지 않은 경우 사용"
+symbol-proportional,Magnitude,symbol-proportional.svg,FALSE,"부호의 크기 비교. 극단적으로 차이가있는 데이터를 표시하는 경우 유용. 반대로, 미묘한 차이의 표 현에 적합"
 isotope (pictogram),Magnitude,isotope.svg,FALSE,"일부 사례에서는 아주 좋은 해결책 - 정수표현에서 사용.(팔을 잘라 십진수로 나타내면 안됨)"
 lollipop-h,Magnitude,lollipop-h-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차트의 데이터는 막대 그래프 보다 주의를 끈다. 또한 순위를 나타내는데 효과적이다."
 lollipop-v,Magnitude,lollipop-v-magnitude.svg,TRUE,"Lollipop (=막대 사탕)차트의 데이터는 막대 그래프 보다 주의를 끈다. 또한 순위를 나타내는데 효과적이다."

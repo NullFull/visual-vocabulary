@@ -9,8 +9,8 @@ let catData = {
     {
       "category": "Correlation",
       "colour": "#977348",
-      "description": "Show the relationship between two or more variables. Be mindful that, unless you tell them otherwise, many readers will assume the relationships you show them to be causal (i.e. one causes the other)",
-      "example": "Inflation & unemployment, income & life expectancy"
+      "description": "2개 이상의 변수의 관계를 나타낸다. 제대로 설명하지 않으면 그림에 제시된 관계성이 인과 관계처럼 인식된다. 주의가 필요.゙",
+      "example": "인플레와 실업률, 소득과 평균 수명"
     },
     {
       "category": "Change v Time",

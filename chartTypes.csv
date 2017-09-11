@@ -3,11 +3,11 @@ bar-diverging,Deviation,bar-diverging.svg,TRUE,음과 양의 범위 값 모두 �
 bar-diverging-stacked,Deviation,bar-diverging-stacked.svg,TRUE,"정서(및 태도)를 포함한 조사 결과를 표현 하는데 최적. 반대 / 둘 중 어디도 아니다 / 찬성 등"
 spine-chart,Deviation,spine.svg,TRUE,"스파인차트는 단일한 값을 상반되는/상대적인 두 요소로 나눌 때 사용한다.(예: 남/녀)"
 line-surplus-deficit-filled,Deviation,line-surplur-defecit-fill.svg,FALSE,"그래프의 음영 부분은 기준선 또는 두 연속값에 대한 균형을 나타낸다."
-scatterplot,Correlation,scatterplot.svg,TRUE,"The standard way to show the relationship between two variables, each of which has its own axis"
-line-column,Correlation,line-column.svg,TRUE,A good way of showing the relationship between an amount (columns) and a rate (line)
-scatterplot-connected,Correlation,scatterplot-connected.svg,TRUE,Usually used to show how the relationship between 2 variables has changed over time
-Bubble,Correlation,bubble.svg,TRUE,"Like a scatterplot, but adds additional detail by sizing the circles according to a third variable"
-XY-heatmap,Correlation,XY-heatmap.svg,TRUE,"A good way of showing the patterns between 2 categories of data, less good at showing fine differences in amounts"
+scatterplot,Correlation,scatterplot.svg,TRUE,"2항목의 관계를 나타내는 표준적인 방법 X축·Y축 각각의 변수에 대응하는 점을 찍는다. 개인의 근속 연수와 연수입 등"
+line-column,Correlation,line-column.svg,TRUE,양 (막대기)과 비율 (선)의 관계를 보여주는 좋은 방법
+scatterplot-connected,Correlation,scatterplot-connected.svg,TRUE, 두 축의 관계를 시계열 변화로 보여준다.
+Bubble,Correlation,bubble.svg,TRUE,"산점도에 또 다른 요소를 추가한다. 좌표 정보에 세 번째 변수를 원형 크기로 표현한 것"
+XY-heatmap,Correlation,XY-heatmap.svg,TRUE,"데이터를 X 축과 Y 축의 2개의 카테고리로 나눈 경우의 경향을 보여준다. 미세한 차이의 표현에는 적합하지 않다"
 Line,Change v Time,line.svg,TRUE,"시계열의 변화를 보여주는 일반적인 방법. 데이터가 고르지 않은 경우, 데이터 포인트를 표시하는 마커를 사용할 수 있다."
 column-timeline,Change v Time,column-timeline.svg,TRUE,"세로형 막대는 시간에 따른 변화를 잘 보여주지만 대개 한번에 한 가지의 연속된 데이터를 표시하는 것이 가장 좋다."
 column-line-timeline,Change v Time,column-line-timeline.svg,TRUE,"시간에 따른 양(막대)과 비율(꺾은선)의 변화의 관계를 표현하기에 적합한 방법이다."

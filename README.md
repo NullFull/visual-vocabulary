@@ -1,7 +1,7 @@
 # Visual Vocabulary
 
 데이터 중심의 작은 예제들 -- 일러스트를 통해 더 세련된 정적 그래픽의 시작점으로 사용되기 위하여.
-[클릭해서 보기](http://ft-interactive.github.io/visual-vocabulary/)
+[클릭해서 보기](https://nullfull.github.io/visual-vocabulary/)
 
 
 # 시작하기
@@ -23,7 +23,7 @@ srvlr을 사용하여 설치 한 경우 터미널을 여는 것처럼 간단합�
 
 # 예제의 로컬 복사본 얻기
 
-컴퓨터에 복사하기. 어느 한쪽 : [클릭해서 다운로드](https://github.com/ft-interactive/visual-vocabulary/archive/master.zip) 또는 터미널에서 `git clone https://github.com/ft-interactive/graphics-examples.git TARGET-LOCATION` 입력,  
+컴퓨터에 복사하기. 어느 한쪽 : [클릭해서 다운로드](https://github.com/NullFull/visual-vocabulary/archive/master.zip) 또는 터미널에서 `git clone https://github.com/NullFull/visual-vocabulary.git TARGET-LOCATION` 입력,  
 `TARGET-LOCATION`은 여러분이 넣기를 원하는 폴더명으로 교체.
 
 

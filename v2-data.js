@@ -21,8 +21,8 @@ let catData = {
     {
       "category": "Ranking",
       "colour": "#008EB0",
-      "description": "Use where an item’s position in an ordered list is more important than its absolute or relative value. Don’t be afraid to highlight the points of interest.",
-      "example": "Wealth, deprivation, league tables, constituency election results"
+      "description": "아이템의 절대값이나 상대값보다 정렬된 목록에서의 위치(순위)가 중요할 때 사용. 드러내고자 하는 바를 과감하게 강조할 것.",
+      "example": "예.  재산, 빈곤, 성적, 선거결과 등."
     },
     {
       "category": "Distribution",
@@ -33,8 +33,8 @@ let catData = {
     {
       "category": "Part to whole",
       "colour": "#0054A6",
-      "description": "Show how a single entity can be broken down into its component elements. If the reader’s interest is solely in the size of the components, consider a magnitude-type chart instead",
-      "example": "Fiscal budgets, company structures, national election results"
+      "description": "전체를 구성 요소로 분해하는 방법을 보여줍니다. 독자가 구성 요소의 크기에 관심이 있는 경우에는 크기-유형 차트를 고려하십시오.",
+      "example": "재정 예산, 회사 구조, 전국 선거 결과"
     },
     {
       "category": "Magnitude",
@@ -45,14 +45,14 @@ let catData = {
     {
       "category": "Spatial",
       "colour": "#9C9D94",
-      "description": "Used only when precise locations or geographical patterns in data are more important to the reader than anything else. ",
-      "example": "Locator maps, population density, natural resource locations, natural disaster risk/impact, catchment areas, variation in election results"
+      "description": "다른 정보보다 정확한 위치나 지리적인 패턴이 더 중요할 때만 사용된다",
+      "example": "경계 지도, 인구 밀도, 천연 자원 위치, 자연 재해 위험/영향, 담수 지역, 선거 결과의 편차"
     },
     {
       "category": "Flow",
       "colour": "#ABBD67",
-      "description": "Show the reader volumes or intensity of movement between two or more states or conditions. These might be logical sequences or geographical locations",
-      "example": "Movement of funds, trade, migrants, lawsuits, information; relationship graphs"
+      "description": "둘 이상의 상태 사이의 변화 양이나 격렬함을 보여줍니다. 논리적 순서나 지리적 위치 일 수 있습니다.",
+      "example": "자금의 흐름, 무역, 이주, 소송, 정보; 관계 연결"
     }
   ]
 }

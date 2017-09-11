@@ -93,7 +93,8 @@
               if(d.avail=="TRUE"){
                 return 0.85
               }
-              else{return 0.2}
+              //avail=="FALSE" opacity 0.2 -> 0.85로 변경 (이유: 어차피 다 못쓰자나...)
+              else{return 0.85}
             })
             .attr("src",function(d){return "icons/"+d.img})
             .attr("width", chartWidth-20)
